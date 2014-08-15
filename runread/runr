@@ -1,0 +1,2 @@
+export CLASSPATH=../lib/*:../target/classes/
+vertx run Reader.java -cluster

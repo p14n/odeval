@@ -1,0 +1,4 @@
+rm -Rf databases
+rm -Rf test
+rm -Rf runread/test
+rm -Rf runread/databases

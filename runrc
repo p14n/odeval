@@ -1,0 +1,2 @@
+export CLASSPATH=lib/*:target/classes/
+vertx run src/main/java/ReadVert.java -cluster
